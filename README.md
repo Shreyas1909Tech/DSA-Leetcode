@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## String
 |  |
 | ------- |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
 | ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
@@ -46,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
