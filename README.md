@@ -64,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
