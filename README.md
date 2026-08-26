@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Array
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+## Stack
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
