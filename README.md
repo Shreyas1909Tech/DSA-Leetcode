@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0610-triangle-judgement) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
