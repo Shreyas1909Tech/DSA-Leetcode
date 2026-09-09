@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0997-find-the-town-judge](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2256-minimum-average-difference](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2256-minimum-average-difference) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
