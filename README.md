@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0997-find-the-town-judge](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
+| [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
@@ -110,5 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
+## Depth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
