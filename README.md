@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
