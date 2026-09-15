@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2256-minimum-average-difference](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2256-minimum-average-difference) |
