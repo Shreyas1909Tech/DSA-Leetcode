@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2256-minimum-average-difference](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2256-minimum-average-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2256-minimum-average-difference](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2256-minimum-average-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
