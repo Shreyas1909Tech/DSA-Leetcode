@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0118-pascals-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -162,5 +164,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
