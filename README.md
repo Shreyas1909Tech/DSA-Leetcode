@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## String
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
