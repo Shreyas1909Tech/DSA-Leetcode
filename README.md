@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0228-summary-ranges](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
