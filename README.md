@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0228-summary-ranges](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0622-design-circular-queue) |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0622-design-circular-queue) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
