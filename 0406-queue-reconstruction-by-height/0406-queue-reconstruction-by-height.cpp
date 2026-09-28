@@ -1,13 +1,20 @@
 class Solution {
 public:
+    static bool comparator(const vector<int>& a, const vector<int>& b) {
+        if (a[0] == b[0])
+            return a[1] < b[1]; 
+        return a[0] > b[0];     // Taller height first
+    }
+
     vector<vector<int>> reconstructQueue(vector<vector<int>>& people) {
-        sort(people.begin(), people.end(), [](vector<int>& p1, vector<int>& p2){
-            return p1[0] > p2[0] || (p1[0] == p2[0] && p1[1] < p2[1]);
-        });
-        vector<vector<int>> sol;
-        for (auto person : people) {
-            sol.insert(sol.begin() + person[1], person);
+
+        sort(people.begin(), people.end(), comparator);
+
+        vector<vector<int>> ans;
+        for (const auto& p : people) {
+            ans.insert(ans.begin() + p[1], p);
         }
-        return sol;
+
+        return ans;
     }
 };
