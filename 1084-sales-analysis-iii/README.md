@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sales-analysis-iii">1174. Sales Analysis III</a></h2><h3>Easy</h3><hr><p>Table: <code>Product</code></p>
+<h2><a href="https://leetcode.com/problems/sales-analysis-iii/solutions/7347886/very-simple-sol-with-logic-explaination-tqkfn/">1174. Sales Analysis III</a></h2><h3>Easy</h3><hr><p>Table: <code>Product</code></p>
 
 <pre>
 +--------------+---------+
