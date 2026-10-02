@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
