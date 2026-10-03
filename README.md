@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2256-minimum-average-difference](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Graph Theory
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
