@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Graph Theory
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
