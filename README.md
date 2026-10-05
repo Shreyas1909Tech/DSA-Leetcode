@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0649-dota2-senate](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0649-dota2-senate) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0649-dota2-senate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
