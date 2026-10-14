@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0649-dota2-senate](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0649-dota2-senate) |
+| [0752-open-the-lock](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0752-open-the-lock](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [0997-find-the-town-judge](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0622-design-circular-queue) |
+| [0752-open-the-lock](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0752-open-the-lock](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [1020-number-of-enclaves](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/1345-jump-game-iv) |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Shreyas1909Tech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
